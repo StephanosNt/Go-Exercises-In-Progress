@@ -1,6 +1,6 @@
 <h1>🖥️ Go Programming Tutorials Exercises Repository</h1>
 <br>
-Welcome to the **Programming Tutorials Exercises Repository**! This repository is a collection of exercises derived from various programming tutorials. It serves as a hands-on resource to practice and enhance your programming skills.
+Welcome to the **Go Programming Tutorials Exercises Repository**! This repository is a collection of exercises derived from various programming tutorials. It serves as a hands-on resource to practice and enhance your programming skills.
 <br><br>
 
 <h2>📂 Repository Structure</h2>
